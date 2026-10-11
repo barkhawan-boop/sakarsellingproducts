@@ -10,6 +10,8 @@
 
 ئەم پرۆژەیە وێبسایتێکی static ـە و ڕێکخستنی Workers Static Assets ـی Wrangler لە `wrangler.jsonc` هەیە.
 
+ناونیشانی Worker: `https://sales.utvt.workers.dev`
+
 - لە Cloudflare Dashboard، Workers & Pages بکەرەوە و Create application > Import a repository هەڵبژێرە.
 - کۆگای GitHub ـی `sakarsellingproducts` بەستەوە و branch ـی `main` دیاری بکە.
 - چونکە build step نییە، هیچ build command یان output folder دانەنێ.
